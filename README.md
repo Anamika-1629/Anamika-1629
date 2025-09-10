@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi there! I'm Anamika Rai
 
-<!--
-**Anamika-1629/Anamika-1629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a third-year Bachelor of Technology student specializing in Computer Science and Engineering (CSE).  
+I have a strong passion for software development and enjoy solving challenging problems through code.
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 Pursuing B. Tech in Computer Science and Engineering
+- 💡 Enthusiastic about developing software solutions and algorithms
+- 🛠️ Actively improving my programming skills through projects and challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+- Software Development
+- Problem Solving & Algorithms
+- Data Structures
+- Web and Cloud Technologies
+
+Feel free to explore my repositories and connect with me!
