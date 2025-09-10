@@ -5,13 +5,6 @@
 - 💡 Enthusiastic about developing software solutions and algorithms
 - 🛠️ Actively improving my programming skills through projects and challenges
 
-### Areas of Interest
-- Software Development
-- Problem Solving & Algorithms
-- Data Structures
-
-Feel free to explore my repositories and connect with me!
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anamika-rai-a94520351) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anamikarai835@gmail.com) 
 
